@@ -1,79 +1,17 @@
 ### Hi there 👋
+<div>
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" >
+<!--   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif"> -->
+</div>
 
-
-<!-- **Singatha/Singatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- Here are some ideas to get you started: -->
+### About Me
 
 - 🔭 I’m currently working on some projects on Frontend Mentor
 - 🌱 I’m currently learning Javascript
-<!-- - 👯 I’m looking to collaborate on nothing atm -->
-<!-- - 🤔 I’m looking for help with nothing atm -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
 
+### Languages
 
-<!-- ### I have worked/currently working with these technologies
+### Tools
 
-- HTML5
-- CSS3
-- Javascript
-- Python
-- Java
-- C++
+### Stats
 
-### I have worked/currently working with these tools
-- Git
-- Command Line
-- VS Code
-- Sublime Tex
-
-### Technologies I want to learn
-
-- CSS Framework
-- Shell Scripting
-- Databases
-- Offline Web Applications
-- Progressive Web Applications
-- Sass
-- ES6
-- XMLFetchRequest
-- Fetch API, Asynchronous, Promises
-- Some Javascript Libraries
-- ElectronJS
-- React
-- React Hooks
-- MobX
-- Redux
-- Context API
-- Nextjs
-- GraphQL
-- Serverless
-- REST API
-- NodeJs
-- Flask
-- Django
-- FastAPI
-- Spring
-- Grpc
-- Kafka/RabbitMQ
-- Web Security
-- Testing
-- WebSockets
-
-### Tools I want to learn
-
-- Build Tools (linters and formatters)
-- Docker
-- Kubernetes
-- Elastic Search
-- CI/CD Jenkins
-- Travis
-- Github Actions
-- Redis
-- Memcache
-- Nginx -->
-
-<!-- ### Some Fancy github stats -->
