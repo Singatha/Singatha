@@ -39,3 +39,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singatha&theme=blueberry&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <img src="./images/stats.jpg" width="300" height="150">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singatha&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singatha&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singatha&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
