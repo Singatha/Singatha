@@ -37,5 +37,5 @@
 ---
  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=singatha&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D) ![Singatha's GitHub stats](https://github-readme-stats.vercel.app/api?username=singatha&show_icons=true&theme=blueberry)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singatha&langs_count=8&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats) <img src="./images/stats.jpg" width="300" height="150">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singatha&langs_count=9&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats) <img src="./images/stats.jpg" width="300" height="150">
 
